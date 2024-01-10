@@ -18,4 +18,5 @@ struct Video {
     let airDate: Date
     let genre: String
     let thumbNail: String?
+    let url: String
 }
